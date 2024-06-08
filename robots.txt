@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ombakeye.github.io/sitemap.html
+Sitemap: https://ombakeye.github.io/app/sitemap.html
+Sitemap: https://ombakeye.github.io/assets/sitemap.html
+Sitemap: https://ombakeye.github.io/includes/sitemap.html
+Sitemap: https://ombakeye.github.io/src/sitemap.html
